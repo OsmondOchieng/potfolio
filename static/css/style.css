@@ -1,0 +1,244 @@
+body{
+    width: 100%;
+   /*overflow: hidden;*/
+    background-color: #e6fff7;
+}
+
+
+
+
+            .mainrow{
+            border: 2px solid red;
+             height: 650px;
+            }
+
+
+        
+            .r1col1{
+             border: 1px solid rgb(14, 225, 49);
+             background-color: #ffe6e6;
+             padding-top:70px ;  
+             padding-left: 70px; 
+            }
+
+            .name{
+                font-size: 45px;
+            }
+
+            .fletter{
+                color: rgb(248, 26, 15)
+            }
+
+            ul{
+                list-style-type: none;
+            }
+
+            ul li{
+                margin-bottom: 20px;
+                font-size: 20px;
+            }
+
+            li a{
+                color: rgb(1, 2, 1);
+            }
+
+            .active{
+                color:red;
+            }
+
+            li a:hover{
+                color:red;
+            }
+
+            .r1col2{
+                border: 1px solid rgb(81, 228, 18);
+                padding: 39x;
+            }
+
+            .btn{
+                width: 200px;
+                height: 50px;
+                border-radius: 50px;
+            }
+
+            .icons-social{
+                position: fixed;
+                display: flex;
+                flex-direction: column;
+                top: 50%;
+                right: 1%;
+                z-index: 100;
+            }
+
+            .icons-social{
+                display: block;
+                width: 50px;
+                height: 50px;
+                color: white;
+                text-align: center;
+                font-size: 25% !important;
+                margin-bottom: 3px;
+            }
+
+            P{
+                color: red;
+            }
+            
+            .para1{
+                color:blue;
+                font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+                font-weight: 100;
+           
+            }
+
+            
+#about
+
+
+body{
+    width: 100%;
+    overflow: hidden;
+    background-color: #e6fff7;
+}
+
+
+
+
+            .mainrow{
+            border: 2px solid red;
+             height: 600px;
+            }
+        
+            .r1col1{
+             border: 1px solid blue;   
+            }
+
+            .name{
+                font-size: 45px;
+            }
+
+            
+
+            .r1col2{
+                border: 1px solid rgb(81, 228, 18);
+            }
+
+#education
+
+body{
+    width: 100%;
+    overflow: hidden;
+    background-color: #e6fff7;
+}
+
+            .mainrow{
+                border:2px solid red;
+                height: 600px
+            }
+            .r1col1{
+                border: 2px solid blue;
+            }
+
+            .name{
+                font-size: 45px;
+            }
+            .r1col2{
+                border: 2px solid green;
+            }
+            .col2r1{
+                border: 2px solid red;
+                height: 150px;
+
+            }
+            .col2r2{
+                background-origin: 2px solid rgb(27, 233, 8);
+                height: 100px;font-size: 30px;
+                
+            }
+            P{
+                color: rgb(1, 6, 1);
+            }
+            .h5{
+                color:red;
+            }
+
+            
+            .col2r3{
+                border: 2px solid red;
+                height: 350px;
+            }
+        
+#services
+
+body{
+    width: 100%;
+    overflow: hidden;
+    background-color: #e6fff7;
+}
+
+            .mainrow{
+            border: 2px solid red;
+             height: 600px;
+            }
+        
+            .r1col1{
+             border: 1px solid blue;   
+            }
+
+            .name{
+                font-size: 45px;
+            }
+
+            .r1col2{
+                border: 1px solid rgb(197, 23, 23);
+                padding-top: 20px;
+            }
+
+            .col2r2{
+                color:red;
+            }
+
+            
+
+#contact
+body{
+    width: 100%;
+    overflow: hidden;
+    background-color: #e6fff7;
+}
+
+         
+            .mainrow{
+                border:2px solid red;
+                height: 600px
+            }
+            .r1col1{
+                border: 2px solid blue;
+            }
+
+            .name{
+                font-size: 45px;
+            }
+            .r1col2{
+                border: 2px solid green;
+            }
+            .col2r1{
+                border: 2px solid red;
+                height: 150px;
+                padding-top: 20px ;
+
+            }
+            .col2r2{
+                background-origin: 2px solid red;
+                height: 100px;
+            }
+            .col2r3{
+                border: 2px solid red;
+                height: 450px;
+            }
+
+            
+
+            
+        
+        
